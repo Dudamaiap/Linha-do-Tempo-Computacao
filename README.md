@@ -1,2 +1,0 @@
-# Linha do Tempo Computacao
-
